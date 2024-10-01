@@ -1,2 +1,3 @@
 # 1r-trimestre
-EL meu primer repositori
+
+Hola, aquest es el meu primer repositori. Em servirà per aprendre a fer servir el Github i el Git
