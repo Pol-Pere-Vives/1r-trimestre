@@ -11,4 +11,5 @@ Dimecres 2 d'octubre de 2024
 
 -**Git commit**: Guardem canvis a repositori local
 
--**Git push**: Per guardar-ho al Github
+-**Git push**: Per guardar-ho al Githu
+
